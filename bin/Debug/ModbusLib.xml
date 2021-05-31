@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ModbusLib</name>
+    </assembly>
+    <members>
+        <member name="T:ModbusLib.DataConversion">
+            <summary>
+            数据转换的一些操作
+            </summary>
+        </member>
+        <member name="M:ModbusLib.DataConversion.StringToByte_0x(System.String)">
+            <summary>
+            字符串转16进制byte
+            </summary>
+            <param name="TheString">要转换的字符串</param>
+            <returns></returns>
+        </member>
+        <member name="M:ModbusLib.DataConversion.ByteToString_0x(System.Byte[])">
+            <summary>
+            16进制Byte转string
+            </summary>
+            <param name="TheByte">要转String的byte</param>
+            <returns></returns>
+        </member>
+        <member name="T:ModbusLib.ModbusRtu">
+            <summary>
+            串口操作类
+            </summary>
+        </member>
+        <member name="F:ModbusLib.ModbusRtu.CurrentCom">
+            <summary>
+            串口操作对象
+            </summary>
+        </member>
+        <member name="P:ModbusLib.ModbusRtu.RcvTimeout">
+            <summary>
+            设置超时时间2秒
+            </summary>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.#ctor">
+            <summary>
+            构造方法初始化
+            </summary>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.openCom(System.String,System.Int32,System.IO.Ports.Parity,System.Int32,System.IO.Ports.StopBits)">
+            <summary>
+            打开串口链接
+            </summary>
+            <param name="portName">设置通信端口</param>
+            <param name="baudRate">设置串行波特率</param>
+            <param name="parity">设置奇偶校验检查协议</param>
+            <param name="dataBits">设置每个字节的标准数据位长度</param>
+            <param name="stopBits">设置每个字节的标准停止位数</param>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.closeCom">
+            <summary>
+            关闭串口
+            </summary>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.sendCommand_01(System.Byte,System.UInt16,System.UInt16)">
+             <summary>
+            读取线离散量0x01
+             </summary>
+             <param name="SlaveId">从站地址</param>
+             <param name="startAddress">起始地址</param>
+             <param name="count">请求数量</param>
+             <returns></returns>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.SendAndSaveByte(System.Byte[],System.Byte[]@)">
+            <summary>
+            接收的数据保存到内存缓存中
+            </summary>
+            <param name="buffer">用于接收缓冲区的数据</param>
+            <param name="response">用于接收内存存储接收的缓冲区数据</param>
+            <returns></returns>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.GetByteByIndex(System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            截取byte获取想要的数据
+            </summary>
+            <param name="buff">要截取的字节</param>
+            <param name="start">开始的位置</param>
+            <param name="count">截取多少个字节</param>
+            <returns></returns>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.sendCommand_0F(System.Byte,System.UInt16,System.UInt16,System.Byte[],System.String@)">
+            <summary>
+            发送0x0F命令请求修改多个线状态返回请求结果
+            </summary>
+            <param name="SlaveId">从站地址</param>
+            <param name="startAddress">开始修改的位置</param>
+            <param name="registercount">要修改的寄存器数量</param>
+            <param name="Number">发送的数据集合</param>
+            <param name="msg">错误返回消息</param>
+            <returns></returns>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.sendCommand_05(System.Byte,System.UInt16,System.Byte,System.Byte,System.String@)">
+            <summary>
+            发送0x05命令请求修改单个线状态返回请求结果
+            </summary>
+            <param name="SlaveId">从站ID</param>
+            <param name="startAddress">要修改的位置</param>
+            <param name="MSB_Number">修改的值高位</param>
+            <param name="LSB_Number">修改的值低位</param>
+            <param name="msg">请求错误的具体信息</param>
+            <returns></returns>
+        </member>
+        <member name="M:ModbusLib.ModbusRtu.ShaoMiaoChuanKou(System.IO.Ports.SerialPort,System.Windows.Forms.ComboBox)">
+            <summary>
+            扫描串口方法
+            </summary>
+            <param name="MyPort">串口类用来调试扫描到的串口是否能打开</param>
+            <param name="MyBox">用于显示串口的，下拉框</param>
+        </member>
+    </members>
+</doc>

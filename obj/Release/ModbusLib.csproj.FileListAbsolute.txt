@@ -1,0 +1,10 @@
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Release\ModbusLib.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Release\ModbusLib.pdb
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Release\HslCommunication.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Release\Newtonsoft.Json.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Release\HslCommunication.xml
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Release\Newtonsoft.Json.xml
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Release\ModbusLib.csproj.CoreCompileInputs.cache
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Release\ModbusLib.csproj.CopyComplete
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Release\ModbusLib.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Release\ModbusLib.pdb

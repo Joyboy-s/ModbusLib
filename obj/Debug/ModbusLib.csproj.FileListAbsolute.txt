@@ -1,0 +1,42 @@
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Debug\ModbusLib.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Debug\ModbusLib.pdb
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.csproj.CoreCompileInputs.cache
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.pdb
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Debug\HslCommunication.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Debug\Newtonsoft.Json.dll
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Debug\HslCommunication.xml
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\bin\Debug\Newtonsoft.Json.xml
+D:\桌面2\wpf demo\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.csproj.CopyComplete
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\ModbusLib.dll
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\ModbusLib.pdb
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\HslCommunication.dll
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\Newtonsoft.Json.dll
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\HslCommunication.xml
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\Newtonsoft.Json.xml
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.csprojAssemblyReference.cache
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.csproj.CoreCompileInputs.cache
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.csproj.CopyComplete
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.dll
+D:\桌面2\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.pdb
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\ModbusLib.dll
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\ModbusLib.pdb
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\HslCommunication.dll
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\Newtonsoft.Json.dll
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\HslCommunication.xml
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\Newtonsoft.Json.xml
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.csproj.CoreCompileInputs.cache
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.csproj.CopyComplete
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.dll
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\obj\Debug\ModbusLib.pdb
+D:\桌面\上创科技\winfrom\Modbus通讯库\ModbusLib\bin\Debug\ModbusLib.xml
+D:\桌面\ModbusLib\ModbusLib\bin\Debug\ModbusLib.xml
+D:\桌面\ModbusLib\ModbusLib\bin\Debug\ModbusLib.dll
+D:\桌面\ModbusLib\ModbusLib\bin\Debug\ModbusLib.pdb
+D:\桌面\ModbusLib\ModbusLib\bin\Debug\HslCommunication.xml
+D:\桌面\ModbusLib\ModbusLib\bin\Debug\Newtonsoft.Json.xml
+D:\桌面\ModbusLib\ModbusLib\obj\Debug\ModbusLib.csproj.AssemblyReference.cache
+D:\桌面\ModbusLib\ModbusLib\obj\Debug\ModbusLib.csproj.CoreCompileInputs.cache
+D:\桌面\ModbusLib\ModbusLib\obj\Debug\ModbusLib.csproj.CopyComplete
+D:\桌面\ModbusLib\ModbusLib\obj\Debug\ModbusLib.dll
+D:\桌面\ModbusLib\ModbusLib\obj\Debug\ModbusLib.pdb
